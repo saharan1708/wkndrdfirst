@@ -2,6 +2,7 @@
   "mappings": [
     "/content/wkndrdpoc1/language-masters/en:/",
     "/content/wkndrdpoc1/language-masters/en/:/",
+    "/content/wkndrdpoc1/language-masters/en/:/en/",
     "/content/wkndrdpoc1/configuration:/.helix/config.json",
     "/content/wkndrdpoc1/metadata:/metadata.json",
     "/content/wkndrdpoc1/redirects:/redirects.json",
