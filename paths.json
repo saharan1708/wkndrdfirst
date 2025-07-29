@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wkndrdpoc1/language-masters/en:/",
-    "/content/wkndrdpoc1/language-masters/en/:/",
-    "/content/wkndrdpoc1/language-masters/en/:/en/",
-    "/content/wkndrdpoc1/configuration:/.helix/config.json",
-    "/content/wkndrdpoc1/metadata:/metadata.json",
-    "/content/wkndrdpoc1/redirects:/redirects.json",
-    "/content/wkndrdpoc1/placeholders:/placeholders.json",
-    "/content/wkndrdpoc1.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/saharan/wkndrdpoc1/language-masters/en:/",
+    "/content/saharan/wkndrdpoc1/language-masters/en/:/",
+    "/content/saharan/wkndrdpoc1/language-masters/en/:/en/",
+    "/content/saharan/wkndrdpoc1/configuration:/.helix/config.json",
+    "/content/saharan/wkndrdpoc1/metadata:/metadata.json",
+    "/content/saharan/wkndrdpoc1/redirects:/redirects.json",
+    "/content/saharan/wkndrdpoc1/placeholders:/placeholders.json",
+    "/content/saharan/wkndrdpoc1.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wkndrdpoc1/",
+    "/content/saharan/wkndrdpoc1/",
     "/content/dam/wkndrdpoc1/"
   ]
 }
